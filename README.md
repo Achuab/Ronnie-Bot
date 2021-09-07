@@ -5,16 +5,17 @@
 <a href="#"><img title="RonnieBot" src="https://img.shields.io/badge/RonnieBot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Achuab"><img title="Author" src="https://img.shields.io/badge/Author-Abhijith-/RonnieBot?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/Achuab">Achuab</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
+## Special Thanks To 💜 <a href= "https://github.com/itsmetokyo">itsmetokyo</a>
 
 ## Setup
 <div align="center">
