@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/Achuab">Achuab</a> to make it pub
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achuab/RonnieBot) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tokyoxmdhlj/itsmetokyo)
   
 ### The Hard Method
 ```js
