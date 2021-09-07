@@ -1,4 +1,4 @@
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+RonnieBot+WA+Bot+repo;Created+by+Tokyo;This+is+a+Bgm+bot;With+more+features)](https://git.io/typing-svg)
 <div align="center">
   <img border-radius: 15px src="Tokyo.jpg" width="200" height="200"/>
   <p align="center">
