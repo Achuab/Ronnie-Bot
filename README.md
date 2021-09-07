@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+RonnieBot+WA+Bot+repo;Created+by+Tokyo;This+is+a+Bgm+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+RonnieBot+WA+Bot+repo;Created+by+Abhijith;This+is+a+Bgm+bot;With+more+features)](https://git.io/typing-svg)
 <div align="center">
   <img border-radius: 15px src="Tokyo.jpg" width="200" height="200"/>
   <p align="center">
@@ -70,7 +70,7 @@ Click WA logo to Join Support Group 👇
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
   </div>
-    
+  
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
